@@ -6,11 +6,6 @@ hash = "05e3fa4144ef169a66d5af6bfe9868153986201f177239a95910855aaccba733"
 metafile = true
 
 [[files]]
-file = "mods/aetherial-islands.pw.toml"
-hash = "912eb31d6d1345ddc2171a36901ec8634b643b75b6fc9a7a9d83892bc51d9414"
-metafile = true
-
-[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "2adf518c92809d9a8cb8c1bbb8f40f8d631a5702ccbcc4ee617a9365dcf48a4e"
 metafile = true
