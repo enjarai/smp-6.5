@@ -51,6 +51,11 @@ hash = "e47409937c4ccad83b1a48db450e669777821f64dfc03faf45d9d387e6baf6c0"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-inspector.pw.toml"
+hash = "6d83e3f3500b53bc17d90c0356a0b257bcb900acb8108f84145bf15fd563f7b5"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "bbff83f5167e56b5cfd947b314b3193110d94425c2f45b385e19624a7c5346ef"
 metafile = true
@@ -106,6 +111,11 @@ hash = "01f43d6b950e07a67f6aa6444b72ac9d283936df103d1418c4729e2cf5230d41"
 metafile = true
 
 [[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "c72a82bd1e70f8be0569ac470d2447c01af4e34d5101f25d1786724e5afb1d8f"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
 metafile = true
@@ -138,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "71c1a36f3a6dc674f1b89e3d254a8e67d2a831b70f66c64e37cc998c419ad977"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
@@ -281,13 +296,23 @@ hash = "bb5f925e0cf22b71063d1ca8fe4ae6c6a050026c05fc4b5e9445c24b68abc90c"
 metafile = true
 
 [[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "c8c4ff771efb2674ddc834787a0c093d4bf917b9a33e7d4fc429f3b9f01535a1"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "6b01af4d87eb72acc41bd2d9807350040fa8a16296806c788ed3cbcbd81f3cd2"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "15df6d21580f14c70ae237cbe794911101897664fdfd913ff47c6b39cb671d11"
+hash = "9ff43624ff235d7e77b5335ec61d92914dd5e371664e3ef4389be7a7f033b4e5"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "08b9cd878c5201b709e991201c4fa1e5e4bd2de42a911cd8b61a38cad319c0a3"
 metafile = true
 
 [[files]]
@@ -346,11 +371,26 @@ hash = "386e65e3ce9dd357c81921deb2a6937cb2a3ab1a043960e2dce40c332a53dad3"
 metafile = true
 
 [[files]]
+file = "mods/vwoops.pw.toml"
+hash = "7fca7ee62f350a80636084c8f618aba3269232f11bf4dd7c287180a422f2abf1"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "6b9ae61c300ce5528343ffd50f3603d1b1a5e152e98eb43a2c1822a8b2b1fef8"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "052b70117c2e9a3a697a36f449b220be7bfba215f3a2e43b5ce7faff9e88b2e6"
+metafile = true
+
+[[files]]
 file = "mods/zipline.pw.toml"
 hash = "c5fc88bdd6b5aa32ec8ffe7f4cc8f644589ee811e01ae0043fdec76ec2aafbe0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
