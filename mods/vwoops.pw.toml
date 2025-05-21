@@ -1,0 +1,13 @@
+name = "Vwoops"
+filename = "vwoops-3.0.0+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UOzJCzae/versions/CsfyrS7l/vwoops-3.0.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "90abee857a3c861e0f5d84030ebf591fb56ed1f514026a758b9fabbadff8a5ebdaf01475ff26225a3a914e12a2e374a062f7f33b1f6c8a128ddbb2bf9d986460"
+
+[update]
+[update.modrinth]
+mod-id = "UOzJCzae"
+version = "CsfyrS7l"
