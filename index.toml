@@ -18,7 +18,7 @@ hash = "8a8a27b2ac65b1df45fd482186b17cc0aabef5cba5e2c9c24f71e4bd93ce6be6"
 
 [[files]]
 file = "config/connectiblechains.toml"
-hash = "dbc0e7983e8a98ccd3decee8a62444a664bd8be8d3456d31700186292a5bf923"
+hash = "9a5a203aee12740ead4fc9a7d1aa95c84e7c6814558470ac9de786060ac24e7a"
 
 [[files]]
 file = "config/headpats.json"
