@@ -1,0 +1,8 @@
+{
+	animate: false,
+	debug: false,
+	ms_between_cycles: 75.0,
+	override_existing: false,
+	palette_sorting: "COLOUR",
+	use_legacy_renderer: false
+}

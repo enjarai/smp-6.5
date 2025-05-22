@@ -1,0 +1,17 @@
+{
+	"dotEmphasis": false,
+	"dotEmphasisColor": "#FF7F3366",
+	"topHatInterceptScrolling": false,
+	"invertTopHatScrolling": false,
+	"revealToHotbar": true,
+	"maxExecutionsPerSpellPerTick": 64,
+	"maxBlockBreakingHardness": 55.5,
+	"allowSwapBedrock": true,
+	"whorlRechargeRate": 1.0,
+	"whorlMaxMana": 256.0,
+	"manaTransferEfficiency": 100.0,
+	"dragDrawing": false,
+	"barsHorizontal": false,
+	"disableOffhandScrollOpening": false,
+	"adjacentPixelCollisionOffset": 0.25
+}

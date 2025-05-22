@@ -1,6 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/accessories.json5"
+hash = "e38612d1819390c708c08c42572172a7a2220b54c8fce69edb7f91d4e17f96c6"
+
+[[files]]
+file = "config/bookshelfinspector-config.yml"
+hash = "fa4decc7bc6cf3c3aaf9ed0ad4673d0c02de4c2cc276515c79b2de8f26b5db0d"
+
+[[files]]
+file = "config/configurable/bettertrims.json5"
+hash = "07797bdab7f436ae0ea24f851f6f0239947ed18444e1903e0d5de137fb5dc459"
+
+[[files]]
+file = "config/configurable/runtimetrims.json5"
+hash = "8a8a27b2ac65b1df45fd482186b17cc0aabef5cba5e2c9c24f71e4bd93ce6be6"
+
+[[files]]
+file = "config/connectiblechains.toml"
+hash = "dbc0e7983e8a98ccd3decee8a62444a664bd8be8d3456d31700186292a5bf923"
+
+[[files]]
+file = "config/headpats.json"
+hash = "377cf0a4c8f384ee6d5fa593ab0c52e7a4ef30baf5c0f770d9b630869d38b6b9"
+
+[[files]]
+file = "config/simple_copper_pipes.json5"
+hash = "389dd3ec2a9f05e89e96c9cf56cb7179e8120061ce45c2d4122f72278c14cc96"
+
+[[files]]
+file = "config/trickster-config.json5"
+hash = "b654156fab43176d0d35f94298f6cc97b692a678c3f6d97c60e1284c7657ac61"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "05e3fa4144ef169a66d5af6bfe9868153986201f177239a95910855aaccba733"
 metafile = true
@@ -243,11 +275,6 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "f53b91397b8a969e843af8772db448ab1c9bc556233a3b26266c52cfa77950fe"
-metafile = true
-
-[[files]]
-file = "mods/no-void-structures.pw.toml"
-hash = "4e246b274f93a1674038cfb74183a888a47bc56f20f2a9e565d30ad1b0b27dbb"
 metafile = true
 
 [[files]]
